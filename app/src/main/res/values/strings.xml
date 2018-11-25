@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bpotiron</string>
+    <string name="action_settings">Réglages</string>
+    <string name="test_title_list_view">Henri Potier à l\'école des sorciers</string>
+    <string name="description_vignette">Image de couverture du livre</string>
+    <string name="description_resume">Résumé du livre</string>
+    <string name="description_price">Prix du livre</string>
+    <string name="description_price_book">Prix de l\'ouvrage :</string>
+</resources>
